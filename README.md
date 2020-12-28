@@ -2,7 +2,7 @@
 
 In this project we will implement non linear regression. Our hypothesis is : θ0 + θ1 * x + θ2 * x^2. Note that one feature x is used for non linear combination.
 
-In this project we will use one approaches to solve this problem:
+In this project we will use one approache to solve this problem:
 
     1) Gradient Descent.
     
@@ -10,7 +10,7 @@ We will implement this project with python.
 
 # Importing libraries and initialization of variables
 
-The number of variables is m = 100, the data are generated randomly. Notice that we have on feature with 100 observations.
+The number of variables is m = 100, the data are generated randomly. Notice that we have one feature with 100 observations.
 
     import numpy as np
     import matplotlib.pyplot as plt
